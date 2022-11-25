@@ -29,6 +29,7 @@ Sentiment analysis done with NLTK-VADER.
 <ul>
     <li>This project uses the VADER lexicon with NLTK&rsquo;s <code>SentimentIntensityAnalyzer</code> class to assign a sentiment score to each comment in the demo dataset. Valence Aware Dictionary and Sentiment Reasoner (VADER) is a lexicon and rule-based sentiment analysis toolset with a focus on sentiments contained in general text applications like online comments, social media posts, and survey responses. Please follow this <a href="https://www.nltk.org/_modules/nltk/sentiment/vader.html">link</a> to learn more VADER and SentimentIntensityAnalyzer modules of NLTK.</li>
 </ul>
+
 ![Screenshot 2022-11-25 181815](https://user-images.githubusercontent.com/59805646/204035207-2167344a-0696-40a5-a8ce-054cdf16e80e.png)
 
 ![Screenshot 2022-11-25 181906](https://user-images.githubusercontent.com/59805646/204035211-5cb82dff-e8f6-4b8f-bd65-1f1f710e4411.png)

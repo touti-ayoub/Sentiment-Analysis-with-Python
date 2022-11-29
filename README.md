@@ -15,7 +15,7 @@ Sentiment analysis done with NLTK-VADER.
 </ul>
 <p><br></p>
 <ul>
-    <li><a href="https://pandas.pydata.org/">pandas</a> is one of the most widely used open-source tools for data manipulation and analysis. Developed in 2008, pandas provides an incredibly fast and efficient object with integrated indexing, called <em>DataFrame</em>. It comes with tools for reading and writing data from and to files and SQL databases. It can manipulate, reshape, filter, aggregate, merge, join and pivot large datasets and is highly optimized for performance.</li>
+    <li><a href="https://pandas.pydata.org/">pandas</a> is one of the most widely used open-source tools for data manipulation and analysis. Developed in 2008, pandas provides an incredibly fast and efficient object with integrated indexing, called <em>DataFrame</em>. It comes with tools for reading and writing data from and to files and SQL databases. It can manipulate, reshape, filter, aggregate, merge, join and pivot large datasets and is highly optimized for performance. </li>
 </ul>
 <p><br></p>
 <ul>
